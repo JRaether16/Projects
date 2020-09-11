@@ -1,7 +1,5 @@
-# Projects
+# Code done for ILVTE Summer 2017
 
-Intern-Work: Software and PCB Schematics done Summer 2018
+RF-IR Remote: Software and schematic for RF-IR Remote. Remote received an RF transmitter signal and output an IR signal following the NEC1 protocol to an HDMI switcher.
 
-RF-IR Remote: Software for RF-IR Remote for ILVTE Summer 2017
-
-Scripts: Software for camera scripts for ILVTE Summer 2017
+Scripts: Software for camera scripts, mainly refactored code, as this was my first time doing any larger-scale programming.
